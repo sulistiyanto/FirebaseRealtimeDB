@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746519839713",
+    "project_id": "fir-realtime-db-c1213",
+    "storage_bucket": "fir-realtime-db-c1213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746519839713:android:0274770050a1367a9fc8a0",
+        "android_client_info": {
+          "package_name": "com.kampus.merdeka.firebaserealtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746519839713-q6qctmredbf82tccjf1hravag172oolp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8-NAhu2lXzsW1bbSGlBCIj01znqGZvrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746519839713-q6qctmredbf82tccjf1hravag172oolp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
